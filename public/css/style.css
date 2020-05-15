@@ -1,0 +1,11 @@
+body {
+    background-color: #eee;
+}
+
+p {
+    display: inline-block;
+}
+
+button {
+    margin-left: 20px;
+}

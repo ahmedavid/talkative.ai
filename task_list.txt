@@ -1,0 +1,8 @@
+1.Record some words
+2.Make computer to speak out sentences made from words
+
+Sentences:
+
+1. I am going to school
+2. I like to listent to music
+3. I do sports activity every day.

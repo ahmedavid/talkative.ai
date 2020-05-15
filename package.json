@@ -1,0 +1,23 @@
+{
+  "name": "talkative.ai",
+  "version": "1.0.0",
+  "description": "Software that speaks for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedavid/talkative.ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedavid/talkative.ai/issues"
+  },
+  "homepage": "https://github.com/ahmedavid/talkative.ai#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
